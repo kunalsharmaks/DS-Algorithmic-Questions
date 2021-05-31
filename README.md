@@ -1,5 +1,6 @@
 # Algorithms and Data Structures
 
+
 ![alt txt](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190529171221/Learning-Data-Structures-and-Algorithms-is-Important1-1024x424.png)
 
 This is the collection of **Algorithms, Data Structures** and **Interview Questions** with solutions.
